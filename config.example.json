@@ -1,0 +1,6 @@
+{
+  "host": "user@example.com",
+  "port": 22,
+  "remote_cwd": "/home/user/work",
+  "python": "python3"
+}
